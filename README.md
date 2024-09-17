@@ -114,6 +114,20 @@ Para más detalles, consulta nuestro [listado completo de equipos](equipment.md)
 
 Además, contamos con 1 tesis doctoral en desarrollo y 2 tesis finalizadas.
 
+## Áreas de Interés para Colaboración
+En TecMedHub, estamos constantemente buscando expandir nuestros horizontes y fortalecer nuestras capacidades a través de colaboraciones estratégicas. Las siguientes áreas representan nuestros principales intereses para futuras colaboraciones:
+
+Inteligencia Artificial y Machine Learning en Diagnóstico Médico: Buscamos colaboradores con experiencia en IA para mejorar la precisión y eficiencia de nuestros sistemas de diagnóstico.
+Realidad Virtual y Aumentada en Simulación Médica: Nos interesa explorar aplicaciones innovadoras de VR/AR para mejorar nuestros simuladores de entrenamiento médico.
+Bioimpresión 3D: Buscamos expandir nuestras capacidades en la creación de tejidos y órganos artificiales para investigación y educación médica.
+Telemedicina y Monitoreo Remoto de Pacientes: Estamos interesados en desarrollar soluciones que mejoren el acceso a la atención médica en áreas remotas.
+Robótica Médica: Buscamos colaboradores para el desarrollo de dispositivos robóticos para cirugía asistida y rehabilitación.
+Procesamiento de Señales Biomédicas: Nos interesa mejorar nuestros sistemas de adquisición y análisis de señales fisiológicas.
+Diseño de Dispositivos Médicos Sostenibles: Buscamos innovar en el desarrollo de tecnologías médicas ecológicas y de bajo costo.
+Neurociencia Computacional: Estamos interesados en colaboraciones que nos ayuden a mejorar nuestros modelos de simulación neurológica.
+
+Si tu experiencia o intereses se alinean con alguna de estas áreas, ¡nos encantaría saber de ti!
+
 ## Cómo Contribuir
 
 Ofrecemos dos principales formas de contribución:
