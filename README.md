@@ -1,3 +1,5 @@
+<img src="logo.png" alt="TecMedHub Logo" width="200"/>
+
 # TecMedHub
 
 ## Sobre nosotros
@@ -42,7 +44,7 @@ Nuestro laboratorio cuenta con un equipo diverso y altamente capacitado:
 
 Para más información, puedes contactarnos en:
 
-Email: david.avil@auach.cl
+Email: david.avila@uach.cl
 
 ## Proyectos destacados
 
