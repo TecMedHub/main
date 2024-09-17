@@ -1,5 +1,6 @@
-<center><img src="logo.png" alt="TecMedHub Logo" width="200"/></center>
-
+<p align="center">
+<img src="logo.png" alt="TecMedHub Logo" width="200"/>
+</p>
 
 
 ## Sobre nosotros
