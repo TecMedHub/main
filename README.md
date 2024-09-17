@@ -1,4 +1,4 @@
-<img src="logo.png" alt="TecMedHub Logo" width="200"/></center>
+<center><img src="logo.png" alt="TecMedHub Logo" width="200"/></center>
 
 
 
