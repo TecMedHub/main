@@ -1,6 +1,6 @@
-<img src="logo.png" alt="TecMedHub Logo" width="200"/>
+<img src="logo.png" alt="TecMedHub Logo" width="200"/></center>
 
-# TecMedHub
+
 
 ## Sobre nosotros
 
@@ -35,16 +35,33 @@ Nuestro laboratorio cuenta con un equipo diverso y altamente capacitado:
 
 - 11 tesistas
 - 4 docentes, incluyendo:
-  - Nicolás Quezada, Ms. en Neurociencias Cognitivas, estudiante de doctorado en Bioingeniería
+  - Ms. Nicolás Quezada
   - Dra. Fernanda López
-  - Marco Barra, Mg. en ..., doctorando en...
+  - Ms. Cristina Vargas
+  - Mg. Haydeé Barrientos
+  - Mg. Marco Barra
 - Vanessa Uribe, tesista fija trabajando en el proyecto FissioAccess
+
+## Equipamiento
+
+En TecMedHub contamos con una amplia gama de equipos de última generación que nos permiten llevar a cabo nuestros proyectos de investigación y desarrollo. Nuestro equipamiento incluye:
+
+- 2 impresoras SLA
+- 8 impresoras FFF
+- Plotter de corte
+- Estación de soldado SMD
+- Cortadora/grabadora láser por diodo
+- CNC router
+- Scanner 3D
+- Entre otras tecnologías
+
+Para obtener información más detallada sobre nuestro equipamiento y sus capacidades, consulta nuestro [listado completo de equipos](equipment.md).
 
 ## Contacto
 
 Para más información, puedes contactarnos en:
 
-Email: david.avila@uach.cl
+Email: david.avil@auach.cl
 
 ## Proyectos destacados
 
